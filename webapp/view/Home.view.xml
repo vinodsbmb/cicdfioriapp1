@@ -3,5 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Text text="Hi Team! CICD Demo"> </Text>
+    <Label text="Demo on CICD"/>
     </Page>
 </mvc:View>
